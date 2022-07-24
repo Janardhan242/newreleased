@@ -1,0 +1,14 @@
+{
+"name":"dockerapp",
+"version":"1.0.0",
+"description":"dockersizing node app",
+"author":"Jana<janardhanav46@gmail.com>",
+"main":"server.js",
+"scripts":{
+	"start":"node server.js"
+},
+"dependecies":{
+	"express":"^4.13.3"
+}
+}
+
